@@ -1,0 +1,4 @@
+repository "Meyve Salatası@Yayyapim@cloud"
+  path "/"
+    br "/main"
+    co "/main"
